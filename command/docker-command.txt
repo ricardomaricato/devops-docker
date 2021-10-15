@@ -1,0 +1,3 @@
+Comando para entrar no container:
+
+-> docker exec -it "container_name" bash
